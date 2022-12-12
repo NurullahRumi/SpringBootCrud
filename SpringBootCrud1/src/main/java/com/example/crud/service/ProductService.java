@@ -44,6 +44,6 @@ public class ProductService {
 		existingProduct.setPrice(product.getPrice()); 
 		existingProduct.setQuantity(product.getQuantity());
 		return repository.save(existingProduct);
-		//test commit
+		//test commit again
 	}
 }
