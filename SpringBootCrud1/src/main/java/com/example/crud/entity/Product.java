@@ -20,8 +20,4 @@ public class Product {
 	private String name;
 	private int quantity;
 	private double price;
-	
-//	public int getId() {
-//		return id;
-//	}
 }
